@@ -11,7 +11,7 @@
 
 
 👨‍💻 Programmer / Coder ▶
-💡 Turning Ideas into🔎  Digital Reality
+💡 Turning Ideas into🔎  Digital Reality<br>
 👑 Expert in Mobile Apps📱& Websites 
 🌟 Passionate about Innovation & Tech 📚
 
