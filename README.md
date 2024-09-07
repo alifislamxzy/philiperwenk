@@ -1,4 +1,4 @@
-![Programmer & Developer](https://pbs.twimg.com/profile_banners/1758382212876279808/1725421489/600x200)
+<!-- ![Programmer & Developer](https://pbs.twimg.com/profile_banners/1758382212876279808/1725421489/600x200)-->
 
 ### Hi there 👋, I am MD Alif Islam
 #### Programmer & Developer
